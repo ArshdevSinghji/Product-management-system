@@ -18,7 +18,7 @@ The application is built using React for the frontend and Node.js with Express f
 - Role-based middleware for admin-only routes.
 - Product management endpoints (CRUD operations).
 - Secure password storage using bcrypt.
-- CORS enabled for cross-origin requests.
+- CORS enabled for cross-origin requests..
 
 ## Technologies Used
 
