@@ -1,6 +1,6 @@
 const connectDB = require("./config/db");
 connectDB();
-
+// this
 const authMiddleware = require("./middleware/authMiddleware");
 const authRoutes = require("./routes/authRoutes");
 const productRoutes = require("./routes/productRoutes");
